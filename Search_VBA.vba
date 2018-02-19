@@ -1,3 +1,7 @@
+'References:
+'https://stackoverflow.com/questions/31414106/get-list-of-excel-files-in-a-folder-using-vba
+'https://msdn.microsoft.com/en-us/library/office/gg549168(v=office.14).aspx
+
 Sub ConsolidatedWorkbook()
 
     Dim ConsolidatedSheet As Worksheet
